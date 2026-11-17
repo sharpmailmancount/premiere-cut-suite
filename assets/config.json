@@ -1,0 +1,9 @@
+{
+  "product": "Premiere Cut Suite",
+  "version": "2.0.1",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "eu-west",
+  "auto_update": true,
+  "telemetry": false
+}
